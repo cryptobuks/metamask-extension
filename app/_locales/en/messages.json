@@ -213,6 +213,9 @@
   "currentConversion": {
     "message": "Current Conversion"
   },
+  "currentLanguage": {
+    "message": "current language"
+  },
   "currentNetwork": {
     "message": "Current Network"
   },
@@ -593,6 +596,9 @@
   "metamaskSeedWords": {
     "message": "MetaMask Seed Words"
   },
+  "metamaskVersion": {
+    "message": "metamask version"
+  },
   "min": {
     "message": "Minimum"
   },
@@ -899,6 +905,9 @@
   },
   "selectCurrency": {
     "message": "Select Currency"
+  },
+  "selectLocale": {
+    "message": "Select Locale"
   },
   "selectService": {
     "message": "Select Service"
